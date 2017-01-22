@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="package.json">
+    <Files>
+      <File FileName="RevStackCore.Extensions.Net/Utilities/UriUtility.cs" Line="17" Column="7" />
+      <File FileName="RevStackCore.Extensions.Net/RevStackCore.Extensions.Net.csproj" Line="12" Column="45" />
+      <File FileName="package.json" Line="11" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
