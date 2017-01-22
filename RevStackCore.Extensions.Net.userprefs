@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="package.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
       <File FileName="RevStackCore.Extensions.Net/Utilities/UriUtility.cs" Line="17" Column="7" />
-      <File FileName="RevStackCore.Extensions.Net/RevStackCore.Extensions.Net.csproj" Line="12" Column="45" />
-      <File FileName="package.json" Line="11" Column="55" />
+      <File FileName="RevStackCore.Extensions.Net/RevStackCore.Extensions.Net.csproj" Line="8" Column="75" />
+      <File FileName="package.json" Line="9" Column="18" />
+      <File FileName="README.md" Line="7" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
